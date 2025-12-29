@@ -1,6 +1,6 @@
 {
   "name": "chai-aur-backend",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "a backend at chai aur code channel - youtube",
   "keywords": [
     "javascript",
@@ -9,9 +9,12 @@
   ],
   "license": "ISC",
   "author": "Prabhash kumar",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
   }
 }

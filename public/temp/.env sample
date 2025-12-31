@@ -1,0 +1,2 @@
+PORT = 8000
+MONGODB_URL= mongodb+srv://Prabhash:Prabhash89202@cluster0.ltmvboc.mongodb.net
